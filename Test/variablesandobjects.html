@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>JavaScript Variables. </p>
+
+<h1 id="demo"></h1>
+
+<script>
+var person = "mike";
+
+var plumber = {
+    yearsofexp:0, lname:'', 
+    
+    setYrsOfExp:function(newexp) {
+        this.yearsofexp = newexp;
+        return (" Years of experience: " + this.yearsofexp);
+    }
+}
+
+var person = {
+    name : 'John', 
+    salary : 1500, 
+    employer : 'rbc', 
+    undergrad : 'uot', 
+    };
+
+
+document.getElementById("demo").innerHTML = 
+"Name: " + person.name + 
+" Salary: " + person.salary + 
+this.plumber.setYrsOfExp(10);
+</script>
+
+</body>
+
+</html>
+

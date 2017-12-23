@@ -1,0 +1,21 @@
+{
+  "name": "(coko)",
+  "version": "1.0.0",
+  "description": "creating cookies",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cookie"
+  ],
+  "author": "YL",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.14.0"
+  }
+}

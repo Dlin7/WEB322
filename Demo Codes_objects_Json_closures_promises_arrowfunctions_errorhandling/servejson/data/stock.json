@@ -1,0 +1,44 @@
+[
+{
+"name":"bronze marble",
+"supplier":"AAA Inc",
+"warehouse":"oshawa",
+"sellingprice": 80,
+"availability": "in store"
+},
+{
+    "name":"gold marble",
+    "supplier":"DDD Inc",
+    "warehouse":"oshawa",
+    "sellingprice": 124,
+    "availability": "place order"   
+},
+{
+    "name":"silver marble",
+    "supplier":"ZZZ Inc",
+    "warehouse":"Bramptom",
+    "sellingprice": 200,
+    "availability": "product discontinued"
+},
+{
+    "name":"platinum marble",
+    "supplier":"YYY Inc",
+    "warehouse":"Toronto",
+    "sellingprice": 400,
+    "availability": "in store"
+},
+{
+    "name":"diamond marble",
+    "supplier":"YYY Inc",
+    "warehouse":"Toronto",
+    "sellingprice": 400,
+    "availability": "place order"
+},
+{
+    "name":"copper marble",
+    "supplier":"YYY Inc",
+    "warehouse":"London",
+    "sellingprice": 400,
+    "availability": "product discontinued"
+}
+]
